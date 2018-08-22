@@ -416,4 +416,5 @@
     <migrationTask xmi:id="_a1e-OqYbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Y-toYqYbEeiaHNPu8hUkJg" login="jamullowney@vermontgas.com" firstName="Julie" lastName="Mullowney" type="DQ"/>
+  <TalendProperties:User xmi:id="_msjRYKYbEeiaHNPu8hUkJg" login="ehillmuth@vermontgas.com" firstName="Eric" lastName="Hillmuth" type="DQ"/>
 </xmi:XMI>
