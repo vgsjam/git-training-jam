@@ -162,7 +162,6 @@
     <migrationTask xmi:id="_a1e9PKYbEeiaHNPu8hUkJg" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_a1e9PaYbEeiaHNPu8hUkJg" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_a1e9PqYbEeiaHNPu8hUkJg" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_a1e9P6YbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_a1e9QKYbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_a1e9QaYbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_a1e9QqYbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -413,6 +412,7 @@
     <migrationTask xmi:id="_a1e-N6YbEeiaHNPu8hUkJg" id="org.talend.core.migration.ItemSaveTriggerWholeDoc" breaks="7.0.0" version="7.0.0" status="noimpact"/>
     <migrationTask xmi:id="_a1e-OKYbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.FileInputPositionalByteLengthMigrationTask" breaks="7.0.1" version="7.0.1" status="noimpact"/>
     <migrationTask xmi:id="_a1e-OaYbEeiaHNPu8hUkJg" id="org.talend.camel.designer.migration.UpdateBuildTypeForCTalendJobMigrationTask" breaks="5.6.0" version="7.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_a1e9P6YbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_a1e-OqYbEeiaHNPu8hUkJg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Y-toYqYbEeiaHNPu8hUkJg" login="jamullowney@vermontgas.com" firstName="Julie" lastName="Mullowney" type="DQ"/>
